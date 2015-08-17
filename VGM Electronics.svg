@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="295" height="154">
+<style>.style0{stroke-linejoin:null;stroke:#000000;stroke-width:10;stroke-linecap:null;fill:none;}.style1{stroke-linejoin:null;stroke:#000000;stroke-linecap:null;fill:none;stroke-width:10;}.style2{stroke-linejoin:null;stroke-linecap:null;fill:#000000;}.style3{stroke-linejoin:null;stroke:#000000;stroke-width:5;stroke-linecap:null;fill:none;}.style4{stroke-linejoin:null;stroke:#000000;stroke-linecap:null;stroke-width:5;fill:none;}.style5{stroke-linejoin:null;stroke:#000000;stroke-linecap:null;fill:none;stroke-width:5;}.style6:{font-weight:bold;font-style:normal;stroke-linecap:null;stroke-linejoin:null;stroke-width:0;stroke:#000000;fill:#000000;}</style>
+<title>VGM Electronics</title>
+<line y2="5" x2="290" y1="5" x1="5" class="style0"/>
+<line y2="145" x2="35" y1="145" x1="5" class="style0"/>
+<line x1="260" y1="145" x2="290" y2="145" class="style1"/>
+<line x1="5" y1="5" x2="5" y2="145" class="style1"/>
+<line x1="290" y1="5" x2="290" y2="145" class="style1"/>
+<line y2="125" x2="62.5" y1="25" x1="25" class="style3"/>
+<line y2="25" x2="100" y1="125" x1="62.5" class="style4"/>
+<line y2="60" x2="110" y1="90" x1="110" class="style4"/>
+<line y2="90" x2="185" y1="90" x1="150" class="style4"/>
+<line y2="90" x2="185" y1="125" x1="185" class="style4"/>
+<line y2="25" x2="195" y1="125" x1="195" class="style4"/>
+<line y2="90" x2="232.5" y1="25" x1="195" class="style4"/>
+<line y2="25" x2="270" y1="90" x1="232.5" class="style4"/>
+<line y2="25" x2="270" y1="125" x1="270" class="style4"/>
+<ellipse ry="5" rx="5" cy="5" cx="5" class="style2"/>
+<ellipse ry="5" rx="5" cy="145" cx="260" class="style2"/>
+<ellipse ry="5" rx="5" cy="5" cx="290" class="style2"/>
+<ellipse ry="5" rx="5" cy="145" cx="290" class="style2"/>
+<ellipse ry="5" rx="5" cy="145" cx="35" class="style2"/>
+<ellipse ry="5" rx="5" cy="145" cx="5" class="style2"/>
+<ellipse cx="110" cy="60" rx="2.5" ry="2.5" class="style2"/>
+<ellipse cx="110" cy="90" rx="2.5" ry="2.5" class="style2"/>
+<ellipse cx="185" cy="60" rx="2.5" ry="2.5" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="25" cx="25" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="125" cx="62.5" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="25" cx="100" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="90" cx="150" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="90" cx="185" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="125" cx="185" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="125" cx="195" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="25" cx="195" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="90" cx="232.5" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="25" cx="270" class="style2"/>
+<ellipse ry="2.5" rx="2.5" cy="125" cx="270" class="style2"/>
+<path d="m110 60a37.59 37.6 4 0 1 75 0" class="style5"/>
+<path d="m110 90a37.59 37.6 183.9 0 0 75 0" class="style5"/>
+<text xml:space="preserve" text-anchor="middle" font-family="monospace" font-size="19" y="149.85" x="147.50568" class="style6">Per aspera ad astra</text>
+</svg>
